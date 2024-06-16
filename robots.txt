@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ygonatenpon.github.io/sitemap
+Sitemap: https://ygonatenpon.github.io/app/sitemap
+Sitemap: https://ygonatenpon.github.io/assets/sitemap
+Sitemap: https://ygonatenpon.github.io/css/sitemap
+Sitemap: https://ygonatenpon.github.io/includes/sitemap
+Sitemap: https://ygonatenpon.github.io/item/sitemap
+Sitemap: https://ygonatenpon.github.io/src/sitemap
